@@ -1,3 +1,5 @@
+# Amine LEGDANI
+
 # Getting started with redux
 npm install redux react-redux
 
